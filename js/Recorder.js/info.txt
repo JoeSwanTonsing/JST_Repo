@@ -1,0 +1,4 @@
+Recorder.js
+
+Recorder js is used to record audio in the html using java script.
+A plugin for recording/exporting the output of Web Audio API nodes
