@@ -1,0 +1,5 @@
+JsSIP-v3.9.0
+
+https://jssip.net/
+
+JsSIP is a library for the programming language JavaScript. It takes advantage of SIP and WebRTC to provide a fully featured SIP endpoint in any website. JsSIP allows any website to get real-time communication features using audio and video.
